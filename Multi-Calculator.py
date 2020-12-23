@@ -29,10 +29,6 @@ class Maquina(object):
 		self.rdbt2.pack()
 		self.rdbt3.pack()
 
-
-
-
-
 		#chamamos o nosso mainloop
 		self.janela.mainloop()
 		
