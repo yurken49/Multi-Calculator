@@ -15,8 +15,7 @@ class Maquina(object):
 		self.janela["bg"] = "#17104b"
 
 		#labela com a mensagem de boas vindas 
-		self.lb1 = Label(self.janela, text = """WELCOME!
-		CHOSSE AN OPTION PLEASE""", bg="#17104b", fg="white", font=('verdana', 12, 'italic'), pady=100, padx=20)
+		self.lb1 = Label(self.janela, text = "WELCOME", bg="#17104b", fg="white", font=('verdana', 12, 'italic', 'bold'), pady=100, padx=20)
 		self.lb1.pack()
 
 		#criamos os radio buttons para o usuário escolher qual maquina quer usar
