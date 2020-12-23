@@ -5,6 +5,4 @@ AS FUNÇÕES QUE ELA POSSUE SÃO:
     - CONSULTA FINAMCEIRA
     - CALCULADORA DE ESTATÍSTICA
 ## TELA INICIAL DO PROGRAMA
-<p align="center">
-    <img width="460" src="/Multi-Calculator/blob/main/assets/to_readme/imagem-inicial.png">
-</p>
+![picture alt](https://github.com/yurken49/Multi-Calculator/blob/main/assets/to_readme/imagem-inicial.png)
