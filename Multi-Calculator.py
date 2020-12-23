@@ -28,12 +28,9 @@ class Maquina(object):
 		self.rdbt2.pack()
 		self.rdbt3.pack()
 
-
-
-
-
 		#chamamos o nosso mainloop
 		self.janela.mainloop()
+		
 #chamamos a nossa classe princimpal para rodar o projeto
 Maquina()
 
